@@ -9,6 +9,7 @@ Group:		Development/Python
 Summary:	Python interface to Graphviz's Dot language
 URL:		http://dkbza.org/pydot.html
 Source0:	http://dkbza.org/data/py%{modname}-%{version}.tar.bz2
+BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}
 BuildRequires:	python-parsing python-devel
 BuildRequires:	graphviz, python-parsing
 Requires:	graphviz, python-parsing
