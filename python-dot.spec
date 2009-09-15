@@ -3,7 +3,7 @@
 
 Name:		python-%{modname}
 Version:	0.9.10
-Release:	%mkrel 6
+Release:	%mkrel 7
 License:	MIT
 Group:		Development/Python
 Summary:	Python interface to Graphviz's Dot language
