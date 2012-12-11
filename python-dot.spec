@@ -45,3 +45,38 @@ rm -rf $RPM_BUILD_ROOT
 
 
 
+
+
+%changelog
+* Tue Sep 15 2009 Thierry Vignaud <tv@mandriva.org> 0.9.10-7mdv2010.0
++ Revision: 442099
+- rebuild
+
+* Fri Aug 01 2008 Thierry Vignaud <tv@mandriva.org> 0.9.10-6mdv2009.0
++ Revision: 259581
+- rebuild
+
+* Thu Jul 24 2008 Thierry Vignaud <tv@mandriva.org> 0.9.10-5mdv2009.0
++ Revision: 247406
+- rebuild
+
+* Fri Dec 21 2007 Olivier Blin <oblin@mandriva.com> 0.9.10-3mdv2008.1
++ Revision: 136447
+- restore BuildRoot
+
+  + Thierry Vignaud <tv@mandriva.org>
+    - kill re-definition of %%buildroot on Pixel's request
+
+
+* Fri Feb 23 2007 Jérôme Soyer <saispo@mandriva.org> 0.9.10-3mdv2007.0
++ Revision: 125235
+- Add BR
+- Rebuild for python 2.5
+- Rebuild for latest python
+
+  + Nicolas Lécureuil <neoclust@mandriva.org>
+    - import python-dot-0.9.10-1mdv2007.0
+
+* Sun May 28 2006 Jerome Soyer <saispo@mandriva.org> 0.9.10-1mdv2007.0
+- First mandriva package
+
