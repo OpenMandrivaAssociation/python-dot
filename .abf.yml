@@ -1,2 +1,4 @@
+removed_sources:
+  pydot-0.9.10.tar.bz2: 90f57fc7c6cebad5989bb7bb60c6ceddac1fb0c4
 sources:
-  "pydot-0.9.10.tar.bz2": 90f57fc7c6cebad5989bb7bb60c6ceddac1fb0c4
+  pydot-1.0.25.tar.gz: 9696cb857138c388e4fa4998d97a31638def8885
