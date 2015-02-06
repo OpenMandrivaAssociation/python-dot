@@ -3,7 +3,7 @@
 
 Name:		python-%{modname}
 Version:	1.0.25
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Python
 Summary:	Python interface to Graphviz's Dot language
