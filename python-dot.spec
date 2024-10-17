@@ -7,7 +7,7 @@ Release:	2
 License:	MIT
 Group:		Development/Python
 Summary:	Python interface to Graphviz's Dot language
-URL:            http://code.google.com/p/pydot/
+URL:            https://code.google.com/p/pydot/
 Source0:        http://pydot.googlecode.com/files/pydot-%{version}.tar.gz
 BuildRequires:	python-parsing python-devel
 BuildRequires:	graphviz, python-parsing
